@@ -55,7 +55,7 @@ Para executar o projeto na sua máquina, siga os passos abaixo.
 ### 2. Clone o Repositório
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone [[https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)](https://github.com/BrunoAndrade1/case_ju)
 cd seu-repositorio
 ```
 
